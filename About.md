@@ -1,6 +1,7 @@
 # PS Satchith
+Hey there!
 
-Integrated MSc Physics student at Amrita Vishwa Vidyapeetham, working in
+I'm an Integrated MSc Physics student at Amrita Vishwa Vidyapeetham, working in
 **molecular dynamics** - ab initio molecular dynamics (AIMD) and
 machine-learning interatomic potentials (MLIPs).
 
