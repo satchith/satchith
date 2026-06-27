@@ -1,10 +1,10 @@
 # PS Satchith
 
 Integrated MSc Physics student at Amrita Vishwa Vidyapeetham, working in
-**molecular dynamics** — ab initio molecular dynamics (AIMD) and
+**molecular dynamics** - ab initio molecular dynamics (AIMD) and
 machine-learning interatomic potentials (MLIPs).
 
-I work across the full first-principles-to-ML pipeline: DFT-based AIMD in
+I work across the full first-principles to ML pipeline: DFT-based AIMD in
 CP2K, neural-network potentials, and the analysis of solvation structure
 and ion transport from simulation trajectories. Currently building toward
 a PhD in atomistic simulation.
