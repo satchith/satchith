@@ -1,4 +1,4 @@
-# PS Satchith
+!# PS Satchith
 Hey there!
 
 I'm an Integrated MSc Physics student at Amrita Vishwa Vidyapeetham, working in
