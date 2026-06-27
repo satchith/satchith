@@ -14,7 +14,7 @@ a PhD in atomistic simulation.
 - Learning ML and neural networks, working toward interatomic potentials → **[ML-Learning](https://github.com/satchith/ML-Learning)**
 - Building my AIMD → MLIP → MD validation pipeline (coming soon)
 
-### Elsewhere
+### Find me!
 🌐 [satchith.github.io](https://satchith.github.io) ·
 🆔 [ORCID](https://orcid.org/0009-0002-5865-2661) ·
 💼 [LinkedIn](https://linkedin.com/in/s4tchith) ·
