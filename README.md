@@ -1,4 +1,5 @@
-## About
+### About
+
 Hey there!
 
 I'm an Integrated MSc Physics student at Amrita Vishwa Vidyapeetham, working in
