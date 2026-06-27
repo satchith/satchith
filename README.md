@@ -1,16 +1,20 @@
-## Hi there 👋
+# PS Satchith
 
-<!--
-**satchith/satchith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Integrated MSc Physics student at Amrita Vishwa Vidyapeetham, working in
+**molecular dynamics** — ab initio molecular dynamics (AIMD) and
+machine-learning interatomic potentials (MLIPs).
 
-Here are some ideas to get you started:
+I work across the full first-principles-to-ML pipeline: DFT-based AIMD in
+CP2K, neural-network potentials, and the analysis of solvation structure
+and ion transport from simulation trajectories. Currently building toward
+a PhD in atomistic simulation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Learning ML and neural networks, working toward interatomic potentials → **[ML-Learning](https://github.com/satchith/ML-Learning)**
+- Building my AIMD → MLIP → MD validation pipeline (coming soon)
+
+### Elsewhere
+🌐 [satchith.github.io](https://satchith.github.io) ·
+🆔 [ORCID](https://orcid.org/0009-0002-5865-2661) ·
+💼 [LinkedIn](https://linkedin.com/in/s4tchith) ·
+📧 ps.satchith@gmail.com
