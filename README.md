@@ -1,4 +1,4 @@
-# Hey there! I'm Satchith :)
+# Hey there!👋 I'm Satchith :)
 
 I'm an Integrated MSc Physics student at Amrita Vishwa Vidyapeetham, working in
 **molecular dynamics** - ab initio molecular dynamics (AIMD) and
